@@ -48,7 +48,10 @@ TypeScript
 68.6%
  
 HTML
-17.6%
+20%
+
+TypesCript
+68.8%
  
 JavaScript
 10.2%

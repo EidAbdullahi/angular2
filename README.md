@@ -45,13 +45,13 @@ Packages
 No packages published
 Languages
 TypeScript
-72.4%
+68.6%
  
 HTML
 17.6%
  
 JavaScript
-9.2%
+10.2%
  
 CSS
 0.8%
